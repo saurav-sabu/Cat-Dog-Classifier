@@ -5,7 +5,7 @@ with open("README.md", "r",encoding="utf-8") as f:
 
 
 setup(
-    name="Dog-Cat-Classifier",
+    name="Dog_Cat_Classifier",
     version="0.0.0",
     author="Saurav Sabu",
     author_email="saurav.sabu9@gmail.com",
